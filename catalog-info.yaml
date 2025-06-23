@@ -15,7 +15,7 @@ metadata:
     argocd/app-namespace: adn-kubrix
     backstage.io/kubernetes-namespace: kubrix-demo-vm-phac
     backstage.io/kubernetes-label-selector: app=demo-vm-phac
-    kubevirt-manager: "https://kubevirt-manager.demo-prim.kubrix.cloud/"
+    kubevirt-manager: "https://kubevirt-manager.demo-prime.kubrix.cloud/"
     kargo-project: "https://kargo.demo-prim.kubrix.cloud/project/kubrix-demo-vm-phac-kargo-project"
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: "(tags @> 'kubevirt')"
@@ -53,7 +53,7 @@ metadata:
     argocd/app-namespace: adn-kubrix
     backstage.io/kubernetes-namespace: kubrix-demo-vm-phac
     backstage.io/kubernetes-label-selector: app=demo-vm-phac
-    kubevirt-manager: "https://kubevirt-manager.demo-prim.kubrix.cloud/"
+    kubevirt-manager: "https://kubevirt-manager.demo-prime.kubrix.cloud/"
     kargo-project: "https://kargo.demo-prim.kubrix.cloud/project/kubrix-demo-vm-phac-kargo-project"
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: "(tags @> 'kubevirt')"
@@ -91,7 +91,7 @@ metadata:
     argocd/app-namespace: adn-kubrix
     backstage.io/kubernetes-namespace: kubrix-demo-vm-phac
     backstage.io/kubernetes-label-selector: app=demo-vm-phac
-    kubevirt-manager: "https://kubevirt-manager.demo-prim.kubrix.cloud/"
+    kubevirt-manager: "https://kubevirt-manager.demo-prime.kubrix.cloud/"
     kargo-project: "https://kargo.demo-prim.kubrix.cloud/project/kubrix-demo-vm-phac-kargo-project"
     backstage.io/techdocs-ref: dir:.
     grafana/dashboard-selector: "(tags @> 'kubevirt')"
