@@ -1,0 +1,10 @@
+# dummy
+description: test
+os: fedora-cloud-base
+disk: 10Gi
+cores: 1
+memory: 4Gi
+initpwd: admin
+application_id: demo-vm-phac
+team: kubrix
+# running: 

@@ -1,0 +1,8 @@
+site_name: "demo-vm-phac"
+site_description: "Documentation for demo-vm-phac"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
